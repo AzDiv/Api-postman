@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "nom": "Player 1",
+        "position": "Forward",
+        "team_id": 1
+    },
+    {
+        "id": 2,
+        "nom": "Player 2",
+        "position": "Midfielder",
+        "team_id": 2
+    },
+    {
+        "id": 3,
+        "nom": "Player 3",
+        "position": "Defender",
+        "team_id": 1
+    },
+    {
+        "id": 4,
+        "nom": "Player 4",
+        "position": "Goalkeeper",
+        "team_id": 3
+    }
+]
+
